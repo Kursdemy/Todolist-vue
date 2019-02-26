@@ -1,3 +1,7 @@
+# Binar Batch 11 - Front End  
+# Budi Saputra
+## Tugas Todolist
+
 # todolist-vue
 
 ## Project setup
